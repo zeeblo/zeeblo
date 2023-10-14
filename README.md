@@ -46,6 +46,7 @@
 </div>
 
 <!--tech stack icons-->
+<span align="center">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,html,css&perline=14" />
@@ -56,4 +57,4 @@
 </p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z0NSRWE)
-
+</span>
