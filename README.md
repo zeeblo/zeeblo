@@ -9,7 +9,7 @@
 
 
 
-<img align="right" height="200" src="imgs/opori_snail5trans.png"/>
+<img align="right" height="200" src="imgs/opori_snail4.png"/>
 
 <!--Intro start-->
 ```diff
