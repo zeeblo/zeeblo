@@ -14,7 +14,7 @@
 <!--Intro start-->
 ```diff
 @@About me@@
-+ Self-taught 
++ Game Modding
 - Web Developer
 ! Bot Developer
 > Attempting to learn Spanish
