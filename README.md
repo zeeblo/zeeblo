@@ -21,9 +21,8 @@
 
 @@Hobbies@@
 + Writing
-- Drawing
-! Animation
-> I also like video & image editing among other things
+- Voice Acting
+! Video & Image Editing
 
 
 ```
