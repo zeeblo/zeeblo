@@ -49,7 +49,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,html,css&perline=14" />
-<a align="right" href="https://fxhome.com/product/hitfilm" target="_blank" rel="noreferrer"> <img src="https://fxhome.com/wp-content/uploads/2022/03/hitFilm.svg" alt="Hitfilm" width="50" height="50"/>
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.gimp.org/images/wilber32.png" alt="Gimp" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=figma,blender&perline=14" />
 
   </a>
